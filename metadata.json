@@ -1,0 +1,5 @@
+{
+  "name": "Store Rating System",
+  "description": "A comprehensive full-stack application for managing and viewing store ratings, with distinct roles for administrators, store owners, and users. This application provides role-based dashboards and functionalities.",
+  "requestFramePermissions": []
+}
